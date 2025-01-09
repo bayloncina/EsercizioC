@@ -1,0 +1,14 @@
+C:\Users\A479\RiderProjects\RubricaTelefonica\RubricaTelefonica\obj\Debug\net8.0\RubricaTelefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A479\RiderProjects\RubricaTelefonica\RubricaTelefonica\obj\Debug\net8.0\RubricaTelefonica.AssemblyInfoInputs.cache
+C:\Users\A479\RiderProjects\RubricaTelefonica\RubricaTelefonica\obj\Debug\net8.0\RubricaTelefonica.AssemblyInfo.cs
+C:\Users\A479\RiderProjects\RubricaTelefonica\RubricaTelefonica\obj\Debug\net8.0\RubricaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\A479\RiderProjects\RubricaTelefonica\RubricaTelefonica\bin\Debug\net8.0\RubricaTelefonica.exe
+C:\Users\A479\RiderProjects\RubricaTelefonica\RubricaTelefonica\bin\Debug\net8.0\RubricaTelefonica.deps.json
+C:\Users\A479\RiderProjects\RubricaTelefonica\RubricaTelefonica\bin\Debug\net8.0\RubricaTelefonica.runtimeconfig.json
+C:\Users\A479\RiderProjects\RubricaTelefonica\RubricaTelefonica\bin\Debug\net8.0\RubricaTelefonica.dll
+C:\Users\A479\RiderProjects\RubricaTelefonica\RubricaTelefonica\bin\Debug\net8.0\RubricaTelefonica.pdb
+C:\Users\A479\RiderProjects\RubricaTelefonica\RubricaTelefonica\obj\Debug\net8.0\RubricaTelefonica.dll
+C:\Users\A479\RiderProjects\RubricaTelefonica\RubricaTelefonica\obj\Debug\net8.0\refint\RubricaTelefonica.dll
+C:\Users\A479\RiderProjects\RubricaTelefonica\RubricaTelefonica\obj\Debug\net8.0\RubricaTelefonica.pdb
+C:\Users\A479\RiderProjects\RubricaTelefonica\RubricaTelefonica\obj\Debug\net8.0\RubricaTelefonica.genruntimeconfig.cache
+C:\Users\A479\RiderProjects\RubricaTelefonica\RubricaTelefonica\obj\Debug\net8.0\ref\RubricaTelefonica.dll
