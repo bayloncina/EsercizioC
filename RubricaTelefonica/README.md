@@ -1,6 +1,6 @@
 # Rubrica Telefonica
 
-##Panoramica
+## Panoramica
 
 Questo progetto è un'applicazione console in C# che permette di gestire una rubrica telefonica. Gli utenti possono aggiungere, eliminare, visualizzare e cercare contatti. È un progetto semplice ma utile per imparare a gestire liste e input utente in C#.
 
